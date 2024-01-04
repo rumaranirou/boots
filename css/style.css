@@ -1,0 +1,7 @@
+.btn_custom{
+    background-color: black;
+    color: white
+}
+.btn_custom:hover{
+    color: success;
+}
